@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C51 Challenge</string>
+    <string name="cashback">$%.2f Cash Back</string>
+    <string name="msg_empty_offers">No offers found.</string>
+    <string name="msg_api_error">Something went wrong!</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_cashback">Sort by cash back</string>
+</resources>
